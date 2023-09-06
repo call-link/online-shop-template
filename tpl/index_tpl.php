@@ -121,6 +121,10 @@
     <!-- ============ js file link =========== -->
     <script src="assets/js/index.js"></script>
     <!-- cdn  -->
+    <footer class="footer">
+        <p>create by hala team | programmer(Github) : codehod</p>
+    </footer>
+    
 </body>
 
 </html> 
