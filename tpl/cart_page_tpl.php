@@ -116,7 +116,7 @@
     <!-- ============ js file link =========== -->
     <script src="assets/js/index.js"></script>
     <footer class="footer">
-        <p>create by hala team | programmer(Github) : codehod</p>
+        <p>create by hala team | programmer(Github) : <a href="https://github.com/codehod">codehod</a> | telegram id :  @hadi_mohammadi1379 </p>
     </footer>
 </body>
 
